@@ -3,4 +3,8 @@ numpy
 sentence-transformers
 faiss-cpu
 rank-bm25
-torch
+nltk
+matplotlib
+seaborn
+gradio
+requests
